@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BURAK\\OneDrive\\Masa\u00FCst\u00FC\\ETicaretUygulamasi\\ETicaretAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7C3D17-CA5B-44A0-9748-019B3F9F36FA}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\eticaretuygulamasi\\eticaretapi\\infrastructure\\eticaretapi.persistence\\migrations\\20240520131350_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7C3D17-CA5B-44A0-9748-019B3F9F36FA}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|solutionrelative:infrastructure\\eticaretapi.persistence\\migrations\\20240520131350_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7C3D17-CA5B-44A0-9748-019B3F9F36FA}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\eticaretuygulamasi\\eticaretapi\\infrastructure\\eticaretapi.persistence\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7C3D17-CA5B-44A0-9748-019B3F9F36FA}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|solutionrelative:infrastructure\\eticaretapi.persistence\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7C3D17-CA5B-44A0-9748-019B3F9F36FA}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\eticaretuygulamasi\\eticaretapi\\infrastructure\\eticaretapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7C3D17-CA5B-44A0-9748-019B3F9F36FA}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|solutionrelative:infrastructure\\eticaretapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7C3D17-CA5B-44A0-9748-019B3F9F36FA}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\eticaretuygulamasi\\eticaretapi\\infrastructure\\eticaretapi.persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7C3D17-CA5B-44A0-9748-019B3F9F36FA}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|solutionrelative:infrastructure\\eticaretapi.persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A864C-D745-48DA-B3AB-1B5B4BC6D6BE}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\eticaretuygulamasi\\eticaretapi\\presentation\\eticaretapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{714A864C-D745-48DA-B3AB-1B5B4BC6D6BE}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7C3D17-CA5B-44A0-9748-019B3F9F36FA}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\eticaretuygulamasi\\eticaretapi\\infrastructure\\eticaretapi.persistence\\contexts\\eticaretapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7C3D17-CA5B-44A0-9748-019B3F9F36FA}|Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|solutionrelative:infrastructure\\eticaretapi.persistence\\contexts\\eticaretapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240520131350_mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\BURAK\\OneDrive\\Masa\u00FCst\u00FC\\ETicaretUygulamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Migrations\\20240520131350_mig_1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Persistence\\Migrations\\20240520131350_mig_1.cs",
+              "ToolTip": "C:\\Users\\BURAK\\OneDrive\\Masa\u00FCst\u00FC\\ETicaretUygulamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Migrations\\20240520131350_mig_1.cs",
+              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\Migrations\\20240520131350_mig_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:13:50.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\BURAK\\OneDrive\\Masa\u00FCst\u00FC\\ETicaretUygulamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Configuration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Persistence\\Configuration.cs",
+              "ToolTip": "C:\\Users\\BURAK\\OneDrive\\Masa\u00FCst\u00FC\\ETicaretUygulamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Configuration.cs",
+              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:07:31.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\BURAK\\OneDrive\\Masa\u00FCst\u00FC\\ETicaretUygulamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Persistence\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\BURAK\\OneDrive\\Masa\u00FCst\u00FC\\ETicaretUygulamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:43:44.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BURAK\\OneDrive\\Masa\u00FCst\u00FC\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\BURAK\\OneDrive\\Masa\u00FCst\u00FC\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\appsettings.json",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T10:13:53.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\BURAK\\OneDrive\\Masa\u00FCst\u00FC\\ETicaretUygulamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\BURAK\\OneDrive\\Masa\u00FCst\u00FC\\ETicaretUygulamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABAAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:03:30.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ETicaretAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\BURAK\\OneDrive\\Masa\u00FCst\u00FC\\ETicaretUygulamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Contexts\\ETicaretAPIDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Persistence\\Contexts\\ETicaretAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\BURAK\\OneDrive\\Masa\u00FCst\u00FC\\ETicaretUygulamasi\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\Contexts\\ETicaretAPIDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\Contexts\\ETicaretAPIDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:49:22.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
