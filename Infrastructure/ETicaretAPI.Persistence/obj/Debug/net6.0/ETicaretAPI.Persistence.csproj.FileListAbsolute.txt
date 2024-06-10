@@ -17,3 +17,4 @@ C:\Users\BURAK\OneDrive\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Infrastructure
 C:\Users\BURAK\OneDrive\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ref\ETicaretAPI.Persistence.dll
 C:\Users\BURAK\OneDrive\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.runtimeconfig.json
 C:\Users\BURAK\OneDrive\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.genruntimeconfig.cache
+C:\Users\BURAK\OneDrive\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.sourcelink.json
