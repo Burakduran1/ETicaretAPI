@@ -2,6 +2,7 @@
 using ETicaretAPI.Domain.Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace ETicaretAPI.API.Controllers
 {
@@ -21,15 +22,18 @@ namespace ETicaretAPI.API.Controllers
         //public async void Get()
         public async Task Get()
         {
-            await _productWriteRepository.AddRangeAsync(new()
-            {
-                new() {Id = Guid.NewGuid(), Name = "Product1", Price=100, CreatedDate=DateTime.UtcNow, Stock=10},
-                new() {Id = Guid.NewGuid(), Name = "Product2", Price=200, CreatedDate=DateTime.UtcNow, Stock=20},
-                new() {Id = Guid.NewGuid(), Name = "Product3", Price=300, CreatedDate=DateTime.UtcNow, Stock=30},
-                new() {Id = Guid.NewGuid(), Name = "Product4", Price=400, CreatedDate=DateTime.UtcNow, Stock=40}
+            //await _productWriteRepository.AddRangeAsync(new()
+            //{
+            //    new() {Id = Guid.NewGuid(), Name = "Product1", Price=100, CreatedDate=DateTime.UtcNow, Stock=10},
+            //    new() {Id = Guid.NewGuid(), Name = "Product2", Price=200, CreatedDate=DateTime.UtcNow, Stock=20},
+            //    new() {Id = Guid.NewGuid(), Name = "Product3", Price=300, CreatedDate=DateTime.UtcNow, Stock=30},
+            //    new() {Id = Guid.NewGuid(), Name = "Product4", Price=400, CreatedDate=DateTime.UtcNow, Stock=40}
 
-            });
-            var count = await _productWriteRepository.SaveAsync();
+            //});
+            //var count = await _productWriteRepository.SaveAsync();
+            Product p = await _productReadRepository.GetByIdAsync("0c30d835-7360-4355-b5ff-1eb27d87d0ba", false);
+            p.Name = "Ensar";
+            await _productWriteRepository.SaveAsync();
         }
 
         [HttpGet("{id}")]
